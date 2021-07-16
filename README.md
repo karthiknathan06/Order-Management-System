@@ -19,7 +19,7 @@ Validation Service [Link](https://github.com/karthiknathan06/validator-service)
 Notification Service [Link](https://github.com/karthiknathan06/email-notifier-service) 
 
 
-![alt text](https://github.com/karthiknathan06/OrderManagementSystem/blob/master/architectureDiagram.jpg)
+![alt text](https://github.com/karthiknathan06/Order-Management-System/blob/main/architectureDiagram.jpg)
 
 
 How to run!
@@ -35,7 +35,7 @@ This solution can be expanded by using below stacks
 1. Interactive kafka streams api
 2. Split into microservices for code maintainability and scalability
 
-![alt text](https://github.com/karthiknathan06/OrderManagementSystem/blob/master/FutureEnhancement.jpg)
+![alt text](https://github.com/karthiknathan06/Order-Management-System/blob/main/FutureEnhancement.jpg)
 
 Initiated the project for microservices [Link](https://github.com/karthiknathan06/Retail-Order-Management-System/tree/master) Also refer this
 
